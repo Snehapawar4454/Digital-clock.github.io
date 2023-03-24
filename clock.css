@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: darkslategrey;
+
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0px 3px 15px rgba(113, 115, 120, 16);
+    padding: 20px 24px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    font-size: 50px;
+    font-weight: 600;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
